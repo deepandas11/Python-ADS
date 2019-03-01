@@ -1,4 +1,4 @@
-# Algorithms and Data Structure using Python
+# Algorithms and Data Structures using Python
 
 #### Tutorials and self referential material
 
