@@ -11,8 +11,10 @@
 
 
 ## Recursion
+- [Tower of Hanoi](https://github.com/deepandas11/Python-ADS/blob/master/towerofhanoi.py)
 
 ## Sorting
+- [Basic Sorting](https://github.com/deepandas11/Python-ADS/blob/master/sorting.py)
 
 ## Trees
 
