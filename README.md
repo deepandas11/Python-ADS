@@ -17,5 +17,8 @@
 - [Basic Sorting](https://github.com/deepandas11/Python-ADS/blob/master/sorting.py)
 
 ## Trees
+- [Trees as Lists](https://github.com/deepandas11/Python-ADS/blob/master/trees_list.py)
+- [Trees as Nodes](https://github.com/deepandas11/Python-ADS/blob/master/trees_nodes.py)
+- [Traversal in Trees](https://github.com/deepandas11/Python-ADS/blob/master/trees_traversal.py)
 
 ## Graphs
