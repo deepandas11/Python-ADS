@@ -22,3 +22,4 @@
 - [Traversal in Trees](https://github.com/deepandas11/Python-ADS/blob/master/trees_traversal.py)
 - [Binary Heap](https://github.com/deepandas11/Python-ADS/blob/master/heaps.py)
 - [Simple Binary Search Tree](https://github.com/deepandas11/Python-ADS/blob/master/binary_search_tree.py)
+- [Elaborate Binary Search Tree](https://github.com/deepandas11/Python-ADS/blob/master/bst.py)
